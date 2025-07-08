@@ -47,5 +47,18 @@ Un planificador de viajes por México con interfaz gráfica que permite:
 
 ```
 Repo_POO
+├── Simulador De Registro De Viajes - Planificador Turistico/
+|   ├── .idea/
+|   │   ├── libraries/
+|   │   │   └── openpdf-1.3.30.jar
+|   │   ├── misc.xml
+|   │   ├── modules.xml
+|   │   └── workspace.xml
+|   ├── src/
+|   │   ├── PlanificadorTuristico.java
+|   │   └── PlanificadorTuristicoGUI.java
+|   ├── .gitignore
+|   └── Simulador De Registro De Viajes - Planificador Turistico.iml
+└── README.md
 ```
 **Nota:** Este proyecto fue desarrollado con fines educativos para la materia de Programación Orientada a Objetos.
