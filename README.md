@@ -47,7 +47,7 @@ Un planificador de viajes por México con interfaz gráfica que permite:
 
 ```
 Repo_POO
-├── Simulador De Registro De Viajes - Planificador Turistico/
+├── Simulador De Registro De Viajes - Planificador Turistico
 |   ├── .idea/
 |   │   ├── libraries/
 |   │   │   └── openpdf-1.3.30.jar
